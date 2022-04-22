@@ -16,7 +16,8 @@ Folder               | Description
 -------------------  | -----------------------------------------
 `0_Abstract`         | Documents Detailing requirements and research.
 `1_Requirments`      | Documents Specifying design details.
+`2_Design`           | Structure Or Behaviour Diagram .
 `3_Implementation`   | All Code and Documentation.
 `4_TestCases`        | Test Cases.
-`5_Report`        |  Detailed Report Of Project.
-`6_Output`        | All File Related to Output.
+`5_Report`           |  Detailed Report Of Project.
+`6_Output`           | All File Related to Output.
