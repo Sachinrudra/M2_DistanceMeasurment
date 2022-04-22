@@ -4,7 +4,7 @@
 ## Badges
 [![Build](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/compile.yml/badge.svg)](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/compile.yml)
 [![Static code Cppcheck](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/cppcheck.yml)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fe770f512f2549559d658bc8fc588814)](https://www.codacy.com/gh/Sachinrudra/M2_DistanceMeasurment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sachinrudra/M2_DistanceMeasurment&amp;utm_campaign=Badge_Grade)
 
 
 
