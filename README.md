@@ -1,6 +1,10 @@
 # M2_DistanceMeasurment
 
 
+## Badges
+[![Build](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/compile.yml/badge.svg)](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/compile.yml)
+[![Static code Cppcheck](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sachinrudra/M2_DistanceMeasurment/actions/workflows/cppcheck.yml)
+
 
 
 
